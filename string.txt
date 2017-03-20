@@ -1,1 +1,8 @@
 this is a string
+d
+g
+h
+j
+i
+k
+e
